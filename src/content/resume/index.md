@@ -41,7 +41,7 @@ keywords: ['yeehanchung', 'yeehan', 'chungyehan', 'Yeehan', 'Yeehan chung', 'chu
 - Conducted code review and documentation review.
 - Integrated API and libraries for services, and data visualization.
 - Built RESTful services to generate developed customizable financial reports.
-- Documented data visualization manual for users, and [self-learned D3 with React.js](https://vizhub.com/cyeehan).
+- Documented data visualization manual for users, and [self-learned D3 with React.js](https://vizhub.com/yeehanchung).
 - Documentation (database schema, RESTful services, and new Backend implementations).
 - Created SQL queries (join, views, when-case, JSON, files, etc.) for data analysis dashboard.
 - Tech stack: **Node.js**, **PHP**, **JavaScript**, **jQuery/Ajax**, **RESTful API**, **MySQL**, **Git**, **.Net Core**, **Bootstrap**.
